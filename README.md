@@ -36,7 +36,7 @@ It will help us to identify Image / Video based deep learning models which will 
 
 **In Action**
 
-![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/71721023-7e33-4810-9c2d-2371fb34892a)
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/d875a883-ec3e-46e2-a6a9-22d9763eb9ed)
 
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/01d44960-39d1-4990-b862-e696e0992901)
 
