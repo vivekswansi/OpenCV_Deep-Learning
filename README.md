@@ -28,12 +28,6 @@ It will help us to identify Image / Video based deep learning models which will 
 5) OEM based H/W for image processing & Day/Night IR camera can be used
 
 
-
-**Architecture**
-
-![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/81dd9675-d381-4e10-a5e8-10bad728dc5c)
-
-
 **In Action**
 
 
@@ -69,6 +63,9 @@ https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/550342
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/cbfde727-a65a-4d14-89c4-fd0229b39989)
 
 
+**Architecture**
+
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/81dd9675-d381-4e10-a5e8-10bad728dc5c)
 
 
 
