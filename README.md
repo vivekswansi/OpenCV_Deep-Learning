@@ -25,13 +25,17 @@ It will help us to identify Image / Video based deep learning models which will 
 2) Objects identification can be further integrated with Google Maps API to identify actual GPS location on Google Maps
 3) AI learning & inference can be further done on Cloud 
 4) On board Arduino can use respective sensors to fetch the actual distance
-5) OEM based H/W for image processing & Day/Night IR camera can be used 
+5) OEM based H/W for image processing & Day/Night IR camera can be used
+
+
 
 **Architecture**
+
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/81dd9675-d381-4e10-a5e8-10bad728dc5c)
 
 
 **In Action**
+
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/71721023-7e33-4810-9c2d-2371fb34892a)
 
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/01d44960-39d1-4990-b862-e696e0992901)
@@ -42,10 +46,15 @@ It will help us to identify Image / Video based deep learning models which will 
 
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/a7f9b6e0-cc60-4a1e-b4d1-a14fc12a3a1a)
 
+
+
 ****Image Processing - Canny Edge Detection**
+
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/910af5c6-8f4c-4123-9e43-c59c328ddb2f)
 
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/5e06d6f3-727e-4296-b23c-ee69548bfb5b)
+
+
 
 **Deep Learning - HAAR Cascade Classifier**
 
