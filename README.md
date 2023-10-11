@@ -38,6 +38,25 @@ It will help us to identify Image / Video based deep learning models which will 
 
 ![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/03163344-472a-4845-90bf-02dbb60b3450)
 
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/a439c2d8-d9a6-42dd-82bb-70adb23fbfde)
+
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/a7f9b6e0-cc60-4a1e-b4d1-a14fc12a3a1a)
+
+****Image Processing - Canny Edge Detection**
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/910af5c6-8f4c-4123-9e43-c59c328ddb2f)
+
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/5e06d6f3-727e-4296-b23c-ee69548bfb5b)
+
+**Deep Learning - HAAR Cascade Classifier**
+
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/3b36632b-1258-496b-b418-01ba498fc853)
+
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/42a875e0-b9e4-4a6d-9224-7fdfb1a20c03)
+
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/52cc4d3f-f7e1-49e5-b50c-ef2989bf2af2)
+
+![image](https://github.com/vivekswansi/OpenCV_Deep-Learning-Lane-Detection/assets/55034268/cbfde727-a65a-4d14-89c4-fd0229b39989)
+
 
 
 
